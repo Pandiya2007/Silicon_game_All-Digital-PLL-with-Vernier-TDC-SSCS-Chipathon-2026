@@ -16,7 +16,7 @@
 | Deepika R | [Deepika-analog](https://github.com/Deepika-analog)  | Analog Design |
 | Padhmanethrri S | [padmanethrri](https://github.com/padhmanethrri) | Analog Design |
 | Beer Mohammed Irfan Z |  [mdirfan](https://github.com/mdIrfan264) | Digital Design |
-| Devansh Srivastava |@handle| Digital Design|
+| Devansh Srivastava | [Devansh-10srivastava](https://github.com/Devansh-10srivastava)| Digital Design|
 
 ---
 
