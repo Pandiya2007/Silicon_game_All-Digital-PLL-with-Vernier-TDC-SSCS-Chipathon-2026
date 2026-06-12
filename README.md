@@ -14,7 +14,7 @@
 | Pandiyarajan S | [@Pandiya2007](https://github.com/Pandiya2007) | Team Lead(Analog and Digital Design |
 | Sankaranarayanan V |  [sankaranarayanan95](https://github.com/sankaranarayanan95)  | Analog Design & Ingtegration |
 | Deepika R | [Deepika-analog](https://github.com/Deepika-analog)  | Analog Design |
-| Padhmanethrri S | @handle | Analog Design |
+| Padhmanethrri S | [padmanethrri](https://github.com/padhmanethrri) | Analog Design |
 | Beer Mohammed Irfan Z |  [mdirfan](https://github.com/mdIrfan264) | Digital Design |
 | Devansh Srivastava |@handle| Digital Design|
 
