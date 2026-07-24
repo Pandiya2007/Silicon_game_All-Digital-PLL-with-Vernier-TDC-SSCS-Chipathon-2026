@@ -106,5 +106,5 @@ A fully All-Digital Phase-Locked Loop (ADPLL) implemented on the GF180MCU open-s
 
 ## Links
 - [Chipathon Issue #104](https://github.com/sscs-ose/sscs-chipathon-2026/issues/104)
-- [Project Proposal](https://github.com/user-attachments/files/28599991/Silicon_Games.project.proposal.pdf)
+- [Schematic Proposal](https://docs.google.com/presentation/d/11RPvjF0jW24iYMCpZM3S5cyPt-2axTvfJRXWfouA4Nc/edit?hl=id&slide=id.p#slide=id.p)
 - [wafer.space Template](https://github.com/wafer-space/gf180mcu-project-template)
